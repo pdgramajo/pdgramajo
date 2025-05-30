@@ -7,19 +7,19 @@
 
 ### 💼 Experience
 
-- 🚀 **Frontend Developer | Planhopper**  
+  - 🚀 **Frontend Developer | Planhopper**  
   React.js, TypeScript, Material UI | Nov 2023 – Present  
-  Developing scalable and high-performance web interfaces for travel and mobility solutions. Focus on UX/UI best practices and modern front-end architectures.
+  Contributing to the development of a construction-focused ERP platform that enables users to manage budgets, access or create price databases, generate commercial offers, and issue invoices — all in one place. My responsibilities include building performant and accessible user interfaces, improving the design system, and ensuring high usability through modern frontend architectures.
 
-- 🧠 **Frontend Developer | Sirrus Web**  
+- 🧠 **Frontend Developer | Sirrus Web** 
   React.js, Tailwind, Jest | Jul 2021 – Nov 2023  
   A web solution for agronomists that streamlines workflows, enhances usability, and ensures regulatory compliance.
 
-- 🔄 **Full Stack Developer | TerraClaim Connect**  
+- 🔄 **Full Stack Developer | TerraClaim Connect** 
   .NET Core, C#, T-SQL, JavaScript, GitLab | Jan 2020 – Jul 2021  
   A centralized portal for ancillary services that improves communication and prevents costly process errors.
 
-- 📊 **Full Stack Developer | TerraClaim Benchmark**  
+- 📊 **Full Stack Developer | TerraClaim Benchmark**  | jbKnowledge
   .NET Core, C#, JavaScript | Jul 2019 – Jan 2020  
   Market comparison tool that enables data-driven decision-making in risk management.
 
