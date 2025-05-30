@@ -28,6 +28,20 @@
 
 ---
 
+### 🎓 Educación
+
+- **Universidad Nacional de Jujuy**  
+  *Analista Programador Universitario* (2011 – 2013)
+
+---
+
+### 📚 Cursos
+
+- **Programación Móvil: Android e iOS** – Becas Control F  
+- **Programación PHP y MySQL** – Becas Control F
+
+---
+
 ### 🛠️ Technologies & Tools
 
 - **Languages:** JavaScript, TypeScript, C#, T-SQL, LINQ
