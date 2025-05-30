@@ -60,7 +60,7 @@
 
 ### 📈 GitHub Stats
 
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdgrmajo&show_icons=true&theme=github_dark)
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdgramajo&show_icons=true&theme=github_dark)
 
 ---
 
