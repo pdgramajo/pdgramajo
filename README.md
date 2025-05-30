@@ -67,7 +67,7 @@
 
 - 📧 **Email:** pdgrmajo@gmail.com
 - 📍 **Location:** San Salvador de Jujuy, Argentina
-- 💼 [LinkedIn](https://www.linkedin.com/in/pablo-gramajo/)
+- 💼 <a href="https://www.linkedin.com/in/pablo-gramajo/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 ---
 
