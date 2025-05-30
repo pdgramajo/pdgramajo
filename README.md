@@ -1,7 +1,7 @@
 
 # 👋 Hi there! I'm Pablo Gramajo
 
-🎯 I'm a **Software Engineer** with over **9 years of professional experience** in full stack development, currently focused on **frontend with React** and **backend with .NET Core**. I'm passionate about teamwork, continuous learning, and always striving to improve both professionally and personally.
+🎯 I'm a **Software Engineer** with over **11 years of professional experience** in full stack development, currently focused on **frontend with React** and **backend with .NET Core**. I'm passionate about teamwork, continuous learning, and always striving to improve both professionally and personally.
 
 ---
 
